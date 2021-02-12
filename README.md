@@ -2,9 +2,12 @@
 
 <p align="center" >
     Es una aplicación web que se encarga de buscar gifs de acuerdo a la categoria ingresada.
-</p>
+</p> 
 
-<br/> 
+
+### Demo
+- [Demo Gif Expert](https://gerchay.github.io/Gif-Expert-App/)
+ 
 
 ### Herramientas 🚀
 - [Create React App](https://github.com/facebook/create-react-app).
